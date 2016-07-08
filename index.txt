@@ -6,3 +6,5 @@ git config --list
 git reset --hard HEAD^
 
 git log 
+
+git reset --hard HEAD^
